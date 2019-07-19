@@ -56,6 +56,16 @@ Chapter 9 - Dictionaries
  9_7e2dicts.py
  create dict, open and read file, find specific string with line.startswith(), use GET method to create dict count
  
- 
+ Chapter 10 Tuples
+ Takeaway:
+  tuples, dictionaries
+  to get a list of tuples from a dictionary...."newlist" = list(dictionaryname.items())
+  you can use "for key,value in list print key, item..... when you have a list of 2 member tuples...
+  if you have a string, you can split at specific character
+      addr = 'monty@python.org'
+      uname, domain = addr.split('@')
+      uname = "monty"
+      domain = python.org
+  
   
     
