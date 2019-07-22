@@ -68,4 +68,9 @@ Chapter 9 - Dictionaries
       domain = python.org
   
   
-    
+ Chapter 12 Networked programs
+  provides examples for how to access info from websites
+    header data
+    href: the links to the site
+    some jpgs
+    various methods
